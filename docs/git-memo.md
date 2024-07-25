@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "git memo"
-permalink: /docs/git/memo
+permalink: /docs/git-memo
 ---
 
-#　ソフトウェア工学　2024
+# ソフトウェア工学　2024
 
 講義で学んだ事をmarkdown形式でまとめる。
 
